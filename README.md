@@ -53,8 +53,8 @@ codex login
 ### Via APM (recommended — automatic + on demand)
 
 ```bash
-apm install chkp-roniz/cc-rubber-duck
-apm compile
+apm install chkp-roniz/cc-rubber-duck --target claude
+apm compile --target claude --local-only
 ```
 
 APM compiles the trigger criteria into your project's `CLAUDE.md`, so
