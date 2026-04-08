@@ -1,0 +1,12 @@
+{
+  "name": "Rubber Duck",
+  "version": "0.1.0",
+  "description": "Cross-model review via Codex CLI (GPT reviewing Claude's work). TRIGGER proactively: after multi-file plans, large implementations, test suites, fix retry loops, destructive ops. ON DEMAND: /rubber-duck, 'second opinion', 'critique this'. DO NOT TRIGGER: trivial edits, typos, config changes.",
+  "author": "chkp-roniz",
+  "license": "MIT",
+  "repository": "chkp-roniz/cc-rubber-duck",
+  "tags": ["review", "second-opinion", "codex", "cross-model", "rubber-duck"],
+  "skills": ["./skills/rubber-duck"],
+  "commands": "./commands/",
+  "instructions": "./instructions/"
+}
