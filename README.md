@@ -1,4 +1,4 @@
-# Rubber Duck
+# Rubber Duck for Claude Code
 
 ```
 >o)
